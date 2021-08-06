@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788524451861",
+    "project_id": "stayconnectedv3",
+    "storage_bucket": "stayconnectedv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788524451861:android:7339cd20c955239024a61c",
+        "android_client_info": {
+          "package_name": "com.example.stayconnectedv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788524451861-h57q4rr4ku8ki0vp5j474lic0f4ure8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFYBEYer5kA7zxhS6EgvwhoAaNmbP9gpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788524451861-h57q4rr4ku8ki0vp5j474lic0f4ure8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

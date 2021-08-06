@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stay connected - Stay safe</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="sign_in">Sign in</string>
+    <string name="no_account_create_one">Don\'t have an account? Create one.</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in.</string>
+    <string name="stay_connected">Stay Connected</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="setup_your_profile">Setup your profile</string>
+    <string name="add_a_profile_picture"><![CDATA[Add a profile picture ->]]></string>
+</resources>
