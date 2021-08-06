@@ -3,11 +3,13 @@
 
 <b>User sign up:</b>                   
 
-<img src = "SCREENSHOTS/signUp.jpg" width = 250>  <b>Dashboard:</b> <img src = "SCREENSHOTS/Dashboard.JPG" width = 250> <b>Users on map:</b> <img src = "SCREENSHOTS/MapActivity.JPG" width = 250>
+<img src = "SCREENSHOTS/signUp.jpg" width = 250>  <b>Dashboard:</b> <img src = "SCREENSHOTS/Dashboard.JPG" width = 250>
 
-  <b>Detailed profile:</b>
+<b>Users on map:</b>
+<img src = "SCREENSHOTS/MapActivity.JPG" width = 250> <b>Detailed profile:</b><img src = "SCREENSHOTS/detailedProfile.JPG" width = 250> 
 
-<img src = "SCREENSHOTS/detailedProfile.JPG" width = 250> <b>Setup profile:</b> <img src = "SCREENSHOTS/setProfile.JPG" width = 250> <b>Notification</b> <img src = "SCREENSHOTS/emergency_notification.jpg" width = 250>
+<b>Setup profile:</b>
+<img src = "SCREENSHOTS/setProfile.JPG" width = 250> <b>Notification:</b> <img src = "SCREENSHOTS/emergency_notification.jpg" width = 250>
 
 
 
