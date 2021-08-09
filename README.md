@@ -1,6 +1,6 @@
 # Stay-Connected-Stay-Safe
 <b>An Android Application designed to enhance the safety of those who use it by presenting real-time user location information to connected persons on a map.</b>
-<b>Read more about this project in detail here: <a href="Dissertation Andrei Toni Niculae.pdf"> Dissertation Andrei Toni Niculae </a> </b>
+<b>Read more about this project here: <a href="Dissertation Andrei Toni Niculae.pdf"> Dissertation Andrei Toni Niculae </a> </b>
 
 
 <b>User sign up:</b>                   
